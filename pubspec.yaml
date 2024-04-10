@@ -11,12 +11,14 @@ dependencies:
   flutter:
     sdk: flutter
   http: ^1.2.1
+  
 
 
 dev_dependencies:
   flutter_lints: ^3.0.0
   flutter_test:
     sdk: flutter
+
 
 flutter:
   uses-material-design: true
@@ -25,3 +27,4 @@ flutter:
     - assets/images/
     - assets/images/perfil1.png
     - assets/images/logo.png
+    - assets/images/LADRILLOS.png
