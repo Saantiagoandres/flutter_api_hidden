@@ -1,0 +1,27 @@
+name: flutter_api_hidden
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  dio: ^5.4.2+1
+  flutter:
+    sdk: flutter
+  http: ^1.2.1
+
+
+dev_dependencies:
+  flutter_lints: ^3.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/images/perfil1.png
+    - assets/images/logo.png
